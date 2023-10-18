@@ -16,5 +16,5 @@ You can:
 
 - ⭐️ Give a star
 - 📝 Make a contribution
-- 💰 Sponsor the contributor
+- 💰 [Sponsor the contributor](https://github.com/sponsors/yylyyl)
 - 📢 A shout on social medias works too!
